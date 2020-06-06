@@ -14,10 +14,10 @@ In order to create cells you must collect items on the map. Items include sugar,
 
 ## Collectable Resources
 
-  * water
-  * sugar
-  * earth
-  * grave (dead player, one cell)
+* water
+* sugar
+* earth
+* grave (dead player, one cell)
 
 ## Stealing Other Players' Cells
 
@@ -27,11 +27,13 @@ When two players collide the player with the larger cell count "steals" whatever
 
 There are several graphical representations of cell sizes:
 
-  * 1 cell
-  * 5 cell 
-  * 10 cell
-  * 100 cell
-  * 1000 cell
-  * connector cell (shows bonds to cell sizes in between these sizes)
+* 1 cell
+* 5 cell
+* 10 cell
+* 100 cell
+* 1000 cell
+* connector cell (shows bonds to cell sizes in between these sizes)
 
+## UI
 
+The UI will consist of a square or rectangular viewport which shows a magnified section of the game map.
